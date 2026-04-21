@@ -1,0 +1,7 @@
+[requires]
+nlohmann_json/3.11.3
+sfml/2.6.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
